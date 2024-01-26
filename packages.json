@@ -2,5 +2,10 @@
   {
     "package": "reservatoriosBR",
     "url": "https://github.com/brunomioto/reservatoriosBR"
+  },
+  {
+     "package": "futebolplotR",
+     "url": "https://github.com/brunomiot/futebolplotR",
+      "subdir": "pkg"
   }
 ]
